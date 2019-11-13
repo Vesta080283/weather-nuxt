@@ -21,7 +21,7 @@
       </v-flex>
     </v-flex>
 
-    <v-flex xs12>
+    <v-flex xs12 justify-content-center>
       <v-card color="transparent">
         <v-card-text>
           <v-layout justify-center>
