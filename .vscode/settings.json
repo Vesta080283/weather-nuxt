@@ -1,0 +1,28 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.sideBar.location": "left",
+  "emmet.includeLanguages": {
+    "vue": "html"
+  },
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ],
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "vetur.validation.template": false,
+  "vetur.completion.useScaffoldSnippets": true,
+  "vetur.format.defaultFormatter.html": "none"
+}
